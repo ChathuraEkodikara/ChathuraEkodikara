@@ -49,7 +49,7 @@
 
 <p align="center">Top Languages</p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chathuraekodikara&layout=compact&theme=tokyonight" alt="Top Languages" />
+  
 </p>
 
 ---
