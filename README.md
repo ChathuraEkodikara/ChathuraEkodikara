@@ -45,13 +45,6 @@
   <img src="https://cdn.brandfetch.io/idMJBtjmlS/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1760410315440" width="40" alt="Altium"/>
   <img src="https://img.icons8.com/color/48/solidworks.png" width="40" />
 
-</p>
-
-<p align="center">Top Languages</p>
-<p align="center">
-  
-</p>
-
 ---
 
 <h3 align="center">  GitHub Stats</h3>
